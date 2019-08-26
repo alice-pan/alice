@@ -3,11 +3,11 @@
     <v-container grid-list-xl fluid>
       <v-layout row wrap>
         <v-flex sm12>
+          <h3>System Setup</h3>
+        </v-flex>
+        <v-flex sm12>
           <v-card>
-            <v-toolbar card prominent color="primary" dark>
-              <v-toolbar-title class="body-2">System Setup</v-toolbar-title>
-              <v-spacer></v-spacer>
-            </v-toolbar>
+           
             <v-card-text>
               <v-layout row>
                 <v-flex xs4>
